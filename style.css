@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(0, 89, 255);
+    text-align: center;
+    font-size: 50px
+}
+.map {
+    width:700px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+    border-radius: 50px;
+}
+body {
+    background: #eeeeee;
+}
+.links {
+    color: rgb(0, 89, 255);
+    font-size: 15px;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center
+}
+a {
+    color: rgb(0, 89, 255);
+}
+.foodphotos {
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+    border-radius: 50px;
+}
+#center-text {
+    text-align: center;
+    display: block;
+    color: rgb(0, 89, 255);
+    font-size: 15px;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+}
